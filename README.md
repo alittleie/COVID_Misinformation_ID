@@ -4,5 +4,5 @@ The segements are disjointed but am working to connect the system together in to
 
 
  
-# Sort_JH_By_State.py
+### Sort_JH_By_State.py
 This a segment of the code that takes raw COVID-19 case data and organizes by state 
