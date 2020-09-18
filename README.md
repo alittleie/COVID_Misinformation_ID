@@ -1,5 +1,5 @@
 ## COVID-19 Misinformation Identification System
-This code is from my recent journal submission where we are attempting to develop an association between misinformation and COVID cases.
+This code is from my recent journal submission where we are attempting to develop an association between twitter misinformation and COVID cases.
 The segments are disjointed but am working to connect the system together into a more coherent sequence 
 
 ### CNNsent_common_test.py
